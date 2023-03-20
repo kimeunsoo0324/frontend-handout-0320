@@ -1,0 +1,31 @@
+h1{
+    color:rgb(236, 114, 255);
+}
+
+.education{
+    color:sandybrown;
+}
+
+p.intro{
+    color:yellowgreen;
+}
+
+#original{
+    color:rgb(255, 147, 23);
+}
+
+h2#original{
+    color:rgb(139, 82, 255);
+}
+
+div h2{
+    color:rgb(168, 86, 215);
+}
+
+ul{
+    color:rgb(185, 144, 255);
+}
+
+footer{
+    color:rgb(180, 115, 115);
+}
