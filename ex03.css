@@ -1,0 +1,27 @@
+h1{
+    color:pink;
+}
+
+div h1{
+    color:purple;
+}
+
+h1.second{
+    color:blue;
+}
+
+p.second{
+    color:skyblue;
+}
+
+#third{
+    color:orange;
+}
+
+p#third{
+    color:brown;
+}
+
+body{
+    background-color: gray;
+}
